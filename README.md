@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646cff?style=flat-square&logo=vite&logoColor=white)
 ![Web Crypto](https://img.shields.io/badge/Web%20Crypto%20API-native-brightgreen?style=flat-square)
-
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ---
 
 ## How it works
